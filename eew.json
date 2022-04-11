@@ -1,0 +1,31 @@
+[
+    {
+        'result': 
+        {
+            'status': 'success',
+            'message': '',
+            'is_auth': True
+        }, 
+        'report_time': '2022/04/06 18: 26: 43',
+        'region_code': '', 
+        'request_time': '20220406182643', 
+        'region_name': '奄美大島北西沖', 
+        'longitude': '128.2', 
+        'is_cancel': False, 
+        'depth': '10km', 
+        'calcintensity': '1', 
+        'is_final': False, 
+        'is_training': False, 
+        'latitude': '28.1', 
+        'origin_time': '20220406182614', 
+        'security': {
+            'realm': '/kyoshin_monitor/static/jsondata/eew_est/', 
+            'hash': 'b61e4d95a8c42e004665825c098a6de4'
+                    }, 
+        'magunitude': '3.5', 
+        'report_num': '1', 
+        'request_hypo_type': 'eew',
+        'report_id': '20220406182628', 
+        'alertflg': '予報'
+    }
+]
